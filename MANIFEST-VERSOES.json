@@ -1,0 +1,126 @@
+{
+  "pdfcraft": {
+    "version": "0.18.2",
+    "bytes": 19609057,
+    "sha256": "3f2c11ae9e33d91762eaeb92a0921734a6e6cbab38c8a6a0d715fe1af73c6867",
+    "source": "storytold/pdfcraft",
+    "local": true,
+    "source_release_verified_sha256": "3f2c11ae9e33d91762eaeb92a0921734a6e6cbab38c8a6a0d715fe1af73c6867",
+    "deployment": "included_in_modules_directory"
+  },
+  "wordcraft": {
+    "version": "0.15.2",
+    "bytes": 22070741,
+    "sha256": "6c7e0f1fdda793ed29122e10c1674942b0693dca112ed748d97ea70714bdafc8",
+    "source": "storytold/wordcraft",
+    "local": true,
+    "source_release_verified_sha256": "6c7e0f1fdda793ed29122e10c1674942b0693dca112ed748d97ea70714bdafc8",
+    "deployment": "included_in_modules_directory"
+  },
+  "deckcraft": {
+    "version": "0.15.1",
+    "bytes": 11746253,
+    "sha256": "06716e755e85dd21b06e25b18db652548ba5eb46ece6924d6f1bf8923457d130",
+    "source": "storytold/deckcraft",
+    "local": true,
+    "source_release_verified_sha256": "06716e755e85dd21b06e25b18db652548ba5eb46ece6924d6f1bf8923457d130",
+    "deployment": "included_in_modules_directory"
+  },
+  "designcraft": {
+    "version": "0.17.2",
+    "bytes": 26921467,
+    "sha256": "23f15c8e67fb692b772cf8ede9c192e7d62a594ce1cf20345957dac4db17ff64",
+    "source": "storytold/designcraft",
+    "local": true,
+    "source_release_verified_sha256": "23f15c8e67fb692b772cf8ede9c192e7d62a594ce1cf20345957dac4db17ff64",
+    "deployment": "included_in_modules_directory"
+  },
+  "vectorcraft": {
+    "version": "0.21.1",
+    "bytes": 33641930,
+    "sha256": "0ee84174aed234771294a0fdedf89a4f3467b34d66238d1dcf9c69d763604a80",
+    "source": "storytold/vectorcraft",
+    "local": true,
+    "source_release_verified_sha256": "0ee84174aed234771294a0fdedf89a4f3467b34d66238d1dcf9c69d763604a80",
+    "deployment": "included_in_modules_directory"
+  },
+  "figcraft": {
+    "version": "0.15.1",
+    "bytes": 10348719,
+    "sha256": "a18e0be3d4411dd6ec4131fb97a86707718ff55f5c49fcefe9e15adb5c045d18",
+    "source": "storytold/figcraft",
+    "local": true,
+    "source_release_verified_sha256": "a18e0be3d4411dd6ec4131fb97a86707718ff55f5c49fcefe9e15adb5c045d18",
+    "deployment": "included_in_modules_directory"
+  },
+  "photocraft": {
+    "version": "0.20.2",
+    "bytes": 14035038,
+    "sha256": "c4f712fa57ca76a84c4548681fafb734967e078304d93991840f674aa9041c3d",
+    "source": "storytold/photocraft",
+    "local": true,
+    "source_release_verified_sha256": "c4f712fa57ca76a84c4548681fafb734967e078304d93991840f674aa9041c3d",
+    "deployment": "included_in_modules_directory"
+  },
+  "effectcraft": {
+    "version": "0.21.1",
+    "bytes": 21814894,
+    "sha256": "6006eb82bc87878453b01050bbdb9185d9c62b0ffa80749c17578728874f5faa",
+    "source": "storytold/effectcraft",
+    "local": true,
+    "source_release_verified_sha256": "6006eb82bc87878453b01050bbdb9185d9c62b0ffa80749c17578728874f5faa",
+    "deployment": "included_in_modules_directory"
+  },
+  "filmcraft": {
+    "version": "0.17.1",
+    "bytes": 15199912,
+    "sha256": "4449a9823adfd5b8996348c74abbb84e856c46480f9d06f85e07b277150a4e4f",
+    "source": "storytold/filmcraft",
+    "local": true,
+    "source_release_verified_sha256": "4449a9823adfd5b8996348c74abbb84e856c46480f9d06f85e07b277150a4e4f",
+    "deployment": "included_in_modules_directory"
+  },
+  "soundcraft": {
+    "version": "0.17.1",
+    "bytes": 6743678,
+    "sha256": "3f106e8010de363ed1093c12d26626739cc2679c4c6c9754870e16aab146a714",
+    "source": "storytold/soundcraft",
+    "local": true,
+    "source_release_verified_sha256": "3f106e8010de363ed1093c12d26626739cc2679c4c6c9754870e16aab146a714",
+    "deployment": "included_in_modules_directory"
+  },
+  "lightcraft": {
+    "version": "0.18.1",
+    "bytes": 73515941,
+    "sha256": "8b09f849dfeedf67cf1fd551361d9e5aafcce6e199157c250344dce01accfb64",
+    "source": "storytold/lightcraft",
+    "local": true,
+    "source_release_verified_sha256": "8b09f849dfeedf67cf1fd551361d9e5aafcce6e199157c250344dce01accfb64",
+    "deployment": "included_in_modules_directory"
+  },
+  "materialcraft": {
+    "version": "0.1.2",
+    "bytes": 4318199,
+    "sha256": "06d7eff5979f8bcb5d7cf0dc0b0b806000f6f2397ca945fb3b48f25f0a05cf87",
+    "source": "storytold/materialcraft",
+    "local": true,
+    "source_release_verified_sha256": "06d7eff5979f8bcb5d7cf0dc0b0b806000f6f2397ca945fb3b48f25f0a05cf87",
+    "deployment": "included_in_modules_directory"
+  },
+  "texturecraft": {
+    "version": "0.3.2",
+    "bytes": 9051373,
+    "sha256": "df74aef4ed21df1b61478dccd719df82823967497d9bac7a6fd1ba60e785e608",
+    "source": "storytold/texturecraft",
+    "local": true,
+    "source_release_verified_sha256": "df74aef4ed21df1b61478dccd719df82823967497d9bac7a6fd1ba60e785e608",
+    "deployment": "included_in_modules_directory"
+  },
+  "fontstudio": {
+    "version": "1.0.0",
+    "bytes": 0,
+    "sha256": "",
+    "source": "storytold/fontstudio",
+    "local": true
+  }
+}

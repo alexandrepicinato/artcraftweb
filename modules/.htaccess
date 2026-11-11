@@ -1,0 +1,8 @@
+Options -Indexes
+AddType application/wasm .wasm
+AddType text/javascript .js .mjs
+AddType font/woff2 .woff2
+AddType font/woff .woff
+<FilesMatch "\.(php|phtml|phar|cgi|pl|sh)$">
+    Require all denied
+</FilesMatch>

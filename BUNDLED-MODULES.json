@@ -1,0 +1,96 @@
+{
+  "created": "2026-11-06",
+  "modules": [
+    {
+      "name": "deckcraft",
+      "release": "deckcraft-web-0.15.1.zip",
+      "sha256": "06716e755e85dd21b06e25b18db652548ba5eb46ece6924d6f1bf8923457d130",
+      "files": 12,
+      "bytes": 32915711
+    },
+    {
+      "name": "designcraft",
+      "release": "designcraft-web-0.17.2.zip",
+      "sha256": "23f15c8e67fb692b772cf8ede9c192e7d62a594ce1cf20345957dac4db17ff64",
+      "files": 24,
+      "bytes": 65515536
+    },
+    {
+      "name": "effectcraft",
+      "release": "effectcraft-web-0.21.1.zip",
+      "sha256": "6006eb82bc87878453b01050bbdb9185d9c62b0ffa80749c17578728874f5faa",
+      "files": 19,
+      "bytes": 72403001
+    },
+    {
+      "name": "figcraft",
+      "release": "figcraft-web-0.15.1.zip",
+      "sha256": "a18e0be3d4411dd6ec4131fb97a86707718ff55f5c49fcefe9e15adb5c045d18",
+      "files": 40,
+      "bytes": 25432608
+    },
+    {
+      "name": "filmcraft",
+      "release": "filmcraft-web-0.17.1.zip",
+      "sha256": "4449a9823adfd5b8996348c74abbb84e856c46480f9d06f85e07b277150a4e4f",
+      "files": 13,
+      "bytes": 48491665
+    },
+    {
+      "name": "lightcraft",
+      "release": "lightcraft-web-0.18.1.zip",
+      "sha256": "8b09f849dfeedf67cf1fd551361d9e5aafcce6e199157c250344dce01accfb64",
+      "files": 37,
+      "bytes": 99000732
+    },
+    {
+      "name": "materialcraft",
+      "release": "materialcraft-web-0.1.2.zip",
+      "sha256": "06d7eff5979f8bcb5d7cf0dc0b0b806000f6f2397ca945fb3b48f25f0a05cf87",
+      "files": 14,
+      "bytes": 12038578
+    },
+    {
+      "name": "pdfcraft",
+      "release": "pdfcraft-web-0.18.2.zip",
+      "sha256": "3f2c11ae9e33d91762eaeb92a0921734a6e6cbab38c8a6a0d715fe1af73c6867",
+      "files": 11,
+      "bytes": 55114588
+    },
+    {
+      "name": "photocraft",
+      "release": "photocraft-web-0.20.2.zip",
+      "sha256": "c4f712fa57ca76a84c4548681fafb734967e078304d93991840f674aa9041c3d",
+      "files": 15,
+      "bytes": 14339554
+    },
+    {
+      "name": "soundcraft",
+      "release": "soundcraft-web-0.17.1.zip",
+      "sha256": "3f106e8010de363ed1093c12d26626739cc2679c4c6c9754870e16aab146a714",
+      "files": 13,
+      "bytes": 18185393
+    },
+    {
+      "name": "texturecraft",
+      "release": "texturecraft-web-0.3.2.zip",
+      "sha256": "df74aef4ed21df1b61478dccd719df82823967497d9bac7a6fd1ba60e785e608",
+      "files": 15,
+      "bytes": 19569392
+    },
+    {
+      "name": "vectorcraft",
+      "release": "vectorcraft-web-0.21.1.zip",
+      "sha256": "0ee84174aed234771294a0fdedf89a4f3467b34d66238d1dcf9c69d763604a80",
+      "files": 45,
+      "bytes": 91437429
+    },
+    {
+      "name": "wordcraft",
+      "release": "wordcraft-web-0.15.2.zip",
+      "sha256": "6c7e0f1fdda793ed29122e10c1674942b0693dca112ed748d97ea70714bdafc8",
+      "files": 26,
+      "bytes": 59787900
+    }
+  ]
+}
